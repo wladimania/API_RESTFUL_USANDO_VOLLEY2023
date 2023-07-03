@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USO DE JSON API RESTFUL CON PARÁMETROS EN EL HEADER USANDO VOLLEY</string>
+    <string name="name">Clientes Registrados</string>
+</resources>

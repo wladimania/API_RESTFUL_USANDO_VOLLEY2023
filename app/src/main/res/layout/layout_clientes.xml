@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+    <TextView
+        android:id="@+id/lblnombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre"
+        android:textSize="16sp"
+        android:textStyle="normal" />
+    <TextView
+        android:id="@+id/lblidentificacion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Identificación"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+    <TextView
+        android:id="@+id/lbldireccion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Dirección"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+    <TextView
+        android:id="@+id/lblcorreo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Correo"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+    <TextView
+        android:id="@+id/lbltelefono"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Telefono"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6E98D6" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#006E98D6" />
+</LinearLayout>
